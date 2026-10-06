@@ -1,0 +1,9 @@
+{
+  "name": "rita-branch-probe",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "<b>VIBDEP</b>": "1.0.0",
+    "normal-package": "^2.3.4"
+  }
+}
